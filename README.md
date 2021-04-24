@@ -11,3 +11,6 @@ AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
+
+![note-taker-1](assets/images/note-taker-1.png)
+![note-taker-2](assets/images/note-taker-2.png)
