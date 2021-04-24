@@ -1,11 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    },
-
-    {
-        "title":"Test2 Title",
-     "text":"Test2 text"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"title":"Test2 Title","text":"Test2 text"},{"title":"Note Title","text":"this is a note\n","id":"496ede8d-f6c1-4f66-afdb-d437dcae4e0e"},{"title":"Another note","text":"How about this one?","id":"ba80d59c-ac07-48d4-ae1e-f874aa2c523d"},{"title":"Now what?","text":"Again","id":"d151e9a8-9c74-4749-9efc-a3fd8e6d6adb"}]
