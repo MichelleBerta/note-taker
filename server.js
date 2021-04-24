@@ -65,10 +65,6 @@ app.delete("/api/notes/:id", (req, res) => {
   });
 });
 
-// // ROUTER
-// require('./routes/apiRoutes')(app);
-// require('./routes/htmlRoutes')(app);
-
 // LISTENER
 app.listen(PORT, () => {
   console.log(`App listening on PORT: ${PORT}`);
