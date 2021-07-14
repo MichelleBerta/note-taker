@@ -1,13 +1,25 @@
-# note-taker
+# Note Taker
 
-This application called Note Taker can be used to write and save notes. It uses an Express.js back end and will save and retrieve note data from a JSON file.
+## Table of Contents
+* [Description](#description)
+* [Link] (#link)
+* [Technology](#technology)
+* [Screenshots](#screenshots)
+
+## Description
+This Note Taker appliclation can be used to write and save notes. It uses an Express.js back end and will save and retrieve note data from a JSON file.
 
 I built the back end, connected the front and back ends, and then deployed the entire application to Heroku.
 
-## User Story
+## Click this link to try out this application (https://peaceful-mountain-98675.herokuapp.com/)
 
-```
-AS A small business owner
-I WANT to be able to write and save notes
-SO THAT I can organize my thoughts and keep track of tasks I need to complete
-```
+## Technology
+* Express.js
+* Node.js
+* Bootstrap
+
+## Screenshots
+![note-taker-1](public/assets/images/note-taker-1.png)
+![note-taker-2](public/assets/images/note-taker-2.png)
+
+
